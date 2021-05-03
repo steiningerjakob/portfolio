@@ -1,15 +1,15 @@
 {
   "author": {
-    "name": "Peacock",
-    "title": "NextJS Starter Peacock",
-    "twitterHandle": "@vick_onrails",
-    "description": "Hi! My name is <a href='/'>Victor</a>, I love to design and build modern experiences on the web. I also love learning in public and working on little side projects that help others build things faster. This starter is my gift to you and I hope it helps somehow 🙏🏾"
+    "name": "Jakob",
+    "title": "Web Developer",
+    "twitterHandle": "@steiningerjakob",
+    "description": "Hi! My name is <a href='/'>Jakob</a>, I love to design and build modern experiences on the web. I also love learning in public and working on little side projects that help others build things faster. This is my very first attempt to build my own stuff on the web."
   },
   "site": {
     "siteUrl": "http://next-starter-peacock.vercel.app/",
-    "siteName": "Peacock",
-    "siteTitle": "NextJS Starter Peacock",
-    "siteDescription": "Peacock is a Nextjs starter for Personal Sites/Portfolios made by @vick_onrails",
+    "siteName": "Jakob's Website",
+    "siteTitle": "First attempt",
+    "siteDescription": "This is Jakob's first attempt to build a website",
     "keywords": "JavaScript, NextJS, Software Engineer, Nigeria Software Engineer, Lagos Software Engineer, JavaScript Engineer Nigeria, ReactJS Engineer Nigeria, Product Designer Nigeria, Victor Ofoegbu",
     "siteImage": "../public/Logo.png"
   }
